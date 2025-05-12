@@ -43,9 +43,8 @@ The `retail.sql` file includes the following:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/Ritikranjan90/Retail_sales_SQL/tree/main>
     ```
-    (Replace `<repository_url>` with the actual URL of your GitHub repository)
 
 2.  **Obtain the dataset:**
     * The `CREATE TABLE` statement in `retail.sql` provides the schema for the `retail` table.
