@@ -43,7 +43,7 @@ The `retail.sql` file includes the following:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/Ritikranjan90/Retail_sales_SQL/tree/main>
+    git clone <https://github.com/Ritikranjan90/Retail_sales_SQL.git>
     ```
 
 2.  **Obtain the dataset:**
